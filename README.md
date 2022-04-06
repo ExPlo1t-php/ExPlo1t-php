@@ -2,7 +2,7 @@
  <h1> Hi!!, I'm Younes </h1>
 <ul>
 <li>🤔   I am passionate about how softwares work, especially security wise.</li>
-<li>🎓   I specialize in creating full stack simple websites</li>
+<li>🎓   I specialize in creating full stack web apps</li>
 </ul>
 
 
