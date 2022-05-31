@@ -1,4 +1,3 @@
-  <img align="center" alt="Coding" width="cover" src="abyssal aatroxvscosmicpantheon.jpg">
  <h1> Hi!!, I'm Younes </h1>
 <ul>
 <li>🤔   I am passionate about how softwares work, especially security wise.</li>
