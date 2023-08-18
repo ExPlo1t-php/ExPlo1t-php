@@ -1,11 +1,11 @@
  ```Younes El Abbas```
  
-🌍 I'm a self-taught FrontEnd/Backend  developer from Morocco
 
  **About me**
 
--🤔   I am passionate about how softwares work, especially security wise.</li>
--🎓   I specialize in creating full stack web apps</li>
+🌍 I'm a self-taught FrontEnd/Backend developer from Morocco
+🤔 I am passionate about how softwares work, especially security wise
+
 
 
 
